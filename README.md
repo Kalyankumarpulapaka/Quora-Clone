@@ -26,12 +26,7 @@ npm start
 
 ---
 
-# Team Members :handshake:
 
-- [Asutosh Behera](https://github.com/asutoshb)
-- [Santosh Mane](https://github.com/santoshmcode)
-- [Ananthu Ashokkumar](https://github.com/ananthu-asokkumar)
-- [Pranali Malkar](https://github.com/Pranali-5)
 
 ---
 
